@@ -12,7 +12,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-map-gl": "^5.2.3",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "tui-chart": "^3.11.2"
   },
   "scripts": {
